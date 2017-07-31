@@ -1,4 +1,4 @@
-﻿# PPT列表
+# PPT列表
 
 - **[nodeppt介绍](/nodeppt/publish/pptintro.html)**
 
