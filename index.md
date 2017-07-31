@@ -1,4 +1,4 @@
 # PPT
 
-- **[ss](/nodeppt/publish/pptintro.html)**
+- **[nodeppt demo](/nodeppt/publish/pptintro.html)**
 
